@@ -14,6 +14,5 @@ This is the first version of the app.
 
 #### What's New
 - Initial spatial app submission.
-- [Changes to Privacy Policy](/privacypolicy)
 
 <br>
